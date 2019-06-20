@@ -90,10 +90,10 @@ header h1,h4{
     width:100%;
 }
 
-#style1{
+#name1{
     text-align: justify;
 }
-#style2{
+#name2{
     display: flex;
     flex-direction: column;
 }

@@ -6,7 +6,13 @@
 *.xml
 *.txt
 icon.png
-title.png
-title-wide.png
+tile.png
+tile-wide.png
 js/
 doc/
+.editorconfig
+.gitattributes
+.htaccess
+site.webmainfest
+favicon.ico
+
